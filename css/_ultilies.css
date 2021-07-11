@@ -1,0 +1,23 @@
+.btn {
+  padding: 0.6rem 1rem;
+  border: 1px solid #FFF;
+  border-radius: 5px;
+  color: #FFF;
+  text-transform: uppercase;
+}
+.btn:hover {
+  border-color: #FF5200;
+  color: #FF5200;
+}
+.btn-primary {
+  background-color: #FF5200;
+  border-color: #FF5200;
+}
+.btn-primary:hover {
+  background-color: transparent;
+}
+.btn-rounded {
+  margin: top 1rem;
+  border-radius: 2rem;
+  padding: 1rem 1.5rem;
+}
